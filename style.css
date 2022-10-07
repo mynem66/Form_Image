@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(9, 4, 107);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.container-one{
+    height: auto;
+    border-style: hidden;
+    background-color: white;
+    padding: 5px 5px 5px 5px;  
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    max-width: 100%;
+
+}
+input{
+    width: 300px;
+   /* max-width: 100%; */
+}
+
+img{
+    height:75vh ; 
+    padding-top: 2px;
+    margin-top: 2px; 
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    max-width: 100%;
+}
+.origin{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    box-sizing: content-box;
+    padding-top: 100px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    width: auto;
+    height: auto;
+
+}
+button{
+    width: 100%;
+     height: 100%;
+     margin-top: 10px;
+     color: white;
+     background-color: green;
+     border-style: hidden;
+     padding: 5px 0px 5px 0px;
+ } 
+ form{
+    height: 70vh;
+    
+}
+
+.pic{
+    height: fit-content;
+}
+
+.open{
+    text-align: center;
+}
+.open p{
+    margin-top: -20px;
+}
+.first{
+    margin-top: 20px;
+}
+.one{
+    padding-top: 10px;   
+}
+.two{
+    padding-top: 10px;   
+}
+.three{
+    padding-top: 10px;   
+}
+.four{
+    padding-top: 10px;   
+}
+.pend-one{
+    font-size: smaller;
+    text-align: center;
+}
+.pend-two{
+    font-size: small;
+    text-align: center;
+    color: blueviolet;
+}
+.span-one{
+    color: black;
+}
+.span-two{
+    color: black;
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
